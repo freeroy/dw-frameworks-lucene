@@ -10,7 +10,7 @@
 	<artifactId>dw-frameworks-lucene</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-frameworks-lucene</name>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<description>lucene全文检索框架包</description>
 
 	<!-- scm配置 -->
